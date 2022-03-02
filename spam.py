@@ -3,8 +3,8 @@ from telethon import TelegramClient
 
 import asyncio
 
-API=7382727
-Hash="671902f3c9760c245232991768c758b5"
+API=ur api
+Hash="ur hash"
 from keep_alive import keep_alive
 
 client = TelegramClient('OWNER 💫@Deadly_kira💫', API, Hash )
